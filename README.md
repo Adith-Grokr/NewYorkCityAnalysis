@@ -7,19 +7,20 @@ This project is designed to empower data exploration, analysis, and insights ext
 Our analysis leverages three datasets from NYC Open Data:
 - **NYPD Complaint Data**: Information on reported incidents and complaints, allowing for insights into crime trends and public safety concerns.
 - **FDNY and NYPD Response Times**: Data on emergency response times, highlighting the effectiveness and speed of emergency services across boroughs.
-- **311 Service Requests**: Records of service requests from the public, giving insight into issues and needs across NYC.
+- **NYPD Arrest Data__Year-to-Date__20241112:** Records of arrests made by the NYPD year-to-date (as of November 12, 2024) provide insights into crime patterns and enforcement activities. Analyzing arrest data alongside reported incidents can offer a more comprehensive view of criminal activity.
 
 ### Project Objectives
 
 1. **Analyze Crime Trends**: Identify patterns in reported incidents, including high-frequency crime categories and neighborhoods with elevated complaint rates.
 2. **Evaluate Emergency Response Times**: Assess average response times across boroughs and incident types to determine where improvements could be made.
-3. **Examine Public Service Requests**: Explore common issues reported to NYC's 311 service and analyze the geographic distribution of these requests.
+3. **Exploration of Arrest Trends:** Analyzing trends in arrests by crime type, location, and time of day (using arrest data) can provide valuable insights into patterns of criminal activity. This information can be used to inform targeted policing strategies and resource allocation.
+
 
 ### Data Sources
 The datasets used in this project were sourced from [NYC Open Data](https://opendata.cityofnewyork.us/):
 1. **NYPD Complaint Data**
 2. **FDNY and NYPD Response Times**
-3. **311 Service Requests**
+3. **NYPD Arrest Data__Year-to-Date__20241112s**
 
 ## Project Structure
 
