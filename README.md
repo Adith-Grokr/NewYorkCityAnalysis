@@ -113,5 +113,24 @@ Results and Visualizations
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
  
-
+### References
+##Data Sources
+- **NYPD Complaint Data:** NYC Open Data provides information on complaints made to the NYPD, detailing incidents by location, date, complaint type, and borough.
+- **NYC Open Data Portal** - https://opendata.cityofnewyork.us/
+- **FDNY and NYPD Response Times:** These datasets contain details on response times to incidents, categorized by agency and borough, and are available through NYC’s public data resources.
+- **NYPD Arrest Data:** This dataset includes information about arrests made by NYPD, capturing arrest dates, related complaint IDs, and descriptions.
+- **NYC Data Portal Documentation:** Official documentation to understand dataset attributes and guidelines.
+https://data.cityofnewyork.us/
+### SQL for Data Analysis and Manipulation
+- **PostgreSQL Documentation:** Comprehensive reference for SQL syntax and advanced functions used in PostgreSQL, useful for understanding SQL commands.
+- **PostgreSQL Official Docs -** https://www.postgresql.org/docs/
+- **SQL Joins and Aggregations:** Tutorial resources explaining SQL joins, aggregations, grouping, and filtering, specifically focused on multi-table analysis.
+- **SQL Tutorial - W3Schools** - https://www.w3schools.com/sql/
+- **SQL for Data Analysis - Mode Analytics SQL Tutorial** - https://mode.com/sql-tutorial/
+- **Data Analysis and Visualization** in Jupyter Notebooks
+- **Pandas Documentation:** Pandas library documentation, which is helpful for handling SQL query results, data manipulation, and basic visualizations within a Jupyter Notebook.
+- **Pandas Docs** - https://pandas.pydata.org/pandas-docs/stable/
+- **Matplotlib and Seaborn:** These libraries are commonly used for visualizations in Python and are helpful for graphically representing SQL query results.
+- **Matplotlib **- https://matplotlib.org/stable/contents.html
+- **Seaborn **- https://seaborn.pydata.org/
 
