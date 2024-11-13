@@ -3,10 +3,10 @@ import psycopg2
 
 # Connect to your database
 conn = psycopg2.connect(
-    host="your_host",
-    database="your_database",
-    user="your_username",
-    password="your_password"
+    host="host",
+    database="database",
+    user="username",
+    password="password"
 )
 
 # Function to execute SQL and return results in a DataFrame
